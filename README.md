@@ -1,4 +1,4 @@
-<h1 align="center">Spotify Homepage Clone</h1>
+<h1 align="center">Spotify Clone</h1>
 
 <div align="center">
   <h3>
